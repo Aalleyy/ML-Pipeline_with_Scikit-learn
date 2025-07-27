@@ -49,7 +49,8 @@ This project builds a **reusable, production-ready machine learning pipeline** u
 - Model export using `joblib`
 
 ### Exported Artifacts
-churn_pipeline.pkl – Complete pipeline with preprocessing + best model
+`churn_pipeline.pkl` – Complete pipeline with preprocessing + best model
+
 Can be reused in production using joblib.load(...)
 
 ---
@@ -65,4 +66,4 @@ Can be reused in production using joblib.load(...)
 ---
 
 ## Acknowledgments
-Dataset by IBM Sample Data and hosted on Kaggle# ML-Pipeline_with_Scikit-learn
+Dataset hosted on Kaggle ML-Pipeline_with_Scikit-learn
